@@ -7,7 +7,9 @@
   <artifactId>5161-$$hla$$</artifactId>
   <version>0.0.1</version>
 
-  <name>Federate Protocol Server</name>
+  <name>IEEE HLA 5161-$$hla$$</name>
+  <description>The java interface as included as additional resources by IEEE in 5161-$$hla$$</description>
+  <url>https://github.com/HLA4FP-Server-Project/hla-spec</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
