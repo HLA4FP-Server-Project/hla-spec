@@ -28,6 +28,17 @@
     </license>
   </licenses>
 
+  <developers>
+    <developer>
+      <id>kieran</id>
+      <name>Kieran McGeehan</name>
+      <url>https://github.com/KieranMcGeehan</url>
+      <roles>
+        <role>administrator / publisher</role>
+      </roles>
+    </developer>
+  </developers>
+
   <build>
     <resources>
       <resource>
