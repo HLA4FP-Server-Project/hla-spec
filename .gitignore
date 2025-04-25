@@ -1,0 +1,8 @@
+# Ignore pom's, they're generated from pom-template.xml
+**/pom.xml
+
+# Maven build dir
+target/
+
+# Editors
+.vscode/
