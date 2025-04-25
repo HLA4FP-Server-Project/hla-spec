@@ -17,6 +17,17 @@
   <dependencies>
   </dependencies>
 
+  <licenses>
+    <license>
+      <name>IEEE royalty-free license</name>
+      <comments>
+        A license granted by the IEEE specifically for the HLA interfaces.
+        Please refer to any of the source files for the full text.
+      </comments>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
   <build>
     <resources>
       <resource>
