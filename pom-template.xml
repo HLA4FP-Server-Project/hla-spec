@@ -39,6 +39,12 @@
     </developer>
   </developers>
 
+  <scm>
+    <connection>scm:git:git://github.com/HLA4FP-Server-Project/hla-spec.git</connection>
+    <developerConnection>scm:git:ssh://github.com:HLA4FP-Server-Project/hla-spec.git</developerConnection>
+    <url>http://github.com/HLA4FP-Server-Project/hla-spec/tree/master</url>
+  </scm>
+
   <build>
     <resources>
       <resource>
